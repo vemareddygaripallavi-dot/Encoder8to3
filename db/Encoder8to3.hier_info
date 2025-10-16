@@ -1,0 +1,14 @@
+|Encoder8to3
+d[0] => Decoder0.IN7
+d[1] => Decoder0.IN6
+d[2] => Decoder0.IN5
+d[3] => Decoder0.IN4
+d[4] => Decoder0.IN3
+d[5] => Decoder0.IN2
+d[6] => Decoder0.IN1
+d[7] => Decoder0.IN0
+y[0] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+y[1] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+y[2] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+
+
